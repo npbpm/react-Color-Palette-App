@@ -1,0 +1,5 @@
+const DRAWER_WIDTH = 400;
+
+const MAX_COLORS = 20;
+
+export { DRAWER_WIDTH, MAX_COLORS };
