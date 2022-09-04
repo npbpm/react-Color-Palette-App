@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-Color-Palette-App/static/css/main.75469eec.css",
+    "main.js": "/react-Color-Palette-App/static/js/main.f5d0ba2e.js",
+    "static/js/787.f9a8a4b2.chunk.js": "/react-Color-Palette-App/static/js/787.f9a8a4b2.chunk.js",
+    "static/media/bg.svg": "/react-Color-Palette-App/static/media/bg.24e8187dd5216b55f4a330c3501aecb9.svg",
+    "index.html": "/react-Color-Palette-App/index.html",
+    "main.75469eec.css.map": "/react-Color-Palette-App/static/css/main.75469eec.css.map",
+    "main.f5d0ba2e.js.map": "/react-Color-Palette-App/static/js/main.f5d0ba2e.js.map",
+    "787.f9a8a4b2.chunk.js.map": "/react-Color-Palette-App/static/js/787.f9a8a4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75469eec.css",
+    "static/js/main.f5d0ba2e.js"
+  ]
+}
