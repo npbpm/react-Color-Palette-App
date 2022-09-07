@@ -157,9 +157,9 @@ function NewPaletteForm(props) {
         <DrawerHeader>
           <IconButton onClick={handleDrawerClose}>
             {theme.direction === "ltr" ? (
-              <ChevronLeftIcon />
+              <ChevronLeftIcon className={classes.drawerBtn} />
             ) : (
-              <ChevronRightIcon />
+              <ChevronRightIcon className={classes.drawerBtn} />
             )}
           </IconButton>
         </DrawerHeader>

@@ -1,5 +1,6 @@
 import { styled } from "@mui/material/styles";
 import { DRAWER_WIDTH } from "../constants";
+import sizes from "./sizes";
 
 const drawerWidth = DRAWER_WIDTH;
 
@@ -19,6 +20,14 @@ const styles = {
   },
   button: {
     width: "50%",
+  },
+  drawerBtn: {
+    [sizes.down("xs")]: {
+      marginRight: "5px",
+    },
+    [sizes.down("us")]: {
+      marginRight: "25px",
+    },
   },
 };
 
